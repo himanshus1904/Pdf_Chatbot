@@ -32,7 +32,9 @@ or scenarios.
 # Setup Instructions
 1. Clone the Repository: git clone <repo-url>
 2. Create a virtual env with python>=3.9
-3. Install the requruirements.txt
+3. Create a .env file and add GOOGLE_API_KEY(get gemini pro api key-https://aistudio.google.com/app/apikey)
+4. Store the GOOGLE_API_KEY as string in this file
+5. Install the requruirements.txt
 ```python
 pip install requirements.txt
 ```
